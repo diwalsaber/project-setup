@@ -1,0 +1,11 @@
+# Fichiers SSH
+*.pem
+*.key
+
+# Cache et fichiers temporaires
+*.log
+*.tmp
+
+# macOS spécifiques
+.DS_Store
+
